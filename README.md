@@ -77,9 +77,6 @@ npm run dev
 The application is deployed to Render and automatically updated when Pull Requests are merged into `main`.  
 Render Deploy Hook URL and API Key are configured securely in GitHub Repo Secrets.
 
-**Live Application URL:**  
-*(Insert your Render app URL once deployed)*
-
 ## Contributing
 
 This is a personal project showcasing CI/CD practices and is not currently accepting external contributions. Feel free to fork the repo and set up your own pipelines!
